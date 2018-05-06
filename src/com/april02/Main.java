@@ -10,7 +10,6 @@ public class Main {
             }else{
                 System.out.println("error");
             }
-
         }
     }
     public static boolean duichen(String str){
@@ -34,5 +33,4 @@ public class Main {
             }
         return sub;
     }
-
 }
